@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "251001959745",
+    "project_id": "child-safety-app-2b13d",
+    "storage_bucket": "child-safety-app-2b13d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251001959745:android:2a9cacf91b1927a0519dc0",
+        "android_client_info": {
+          "package_name": "com.example.child"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfCKVXKbCLZIF6tk9KqVa43nxj5o_hMZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251001959745:android:77c129b99ddafb7d519dc0",
+        "android_client_info": {
+          "package_name": "com.example.child_safety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfCKVXKbCLZIF6tk9KqVa43nxj5o_hMZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
